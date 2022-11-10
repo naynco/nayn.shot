@@ -6,7 +6,7 @@
   "license": "AGPL",
   "dependencies": {
     "body-parser": "^1.18.2",
-    "electron": "^9.4.0",
+    "electron": "^18.3.7",
     "express": "^4.16.3",
     "express-handlebars": "^3.0.0",
     "screenshot-tweet": "^1.0.5"
